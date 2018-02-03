@@ -1,1 +1,21 @@
 Regarding the lab assignment:
+
+The main goal of this lab assignment is to get familiar with python coding. 
+It deals with the lists, functions, validation criteria, searching and comparing elements.
+
+This assignment is basically included of 4 different tasks.
+
+Task 1: deals with the validation criteria for the passwords. There were four different conditions to be satisfied like:
+	Size 6-16
+	One numerical at least
+	One of [$@!*]
+	Lowercase and uppercase
+
+Task 2: Displaying various parts of the sentence like:
+	Middle word
+	Longest word
+	Printing the statement in reverse order.
+
+Task 3: In this the triplets summing to 0 are to be extracted.
+
+Task 4: Extracting strings from two different lists both common and non-common
